@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/1">
+        <file>resource/back.png</file>
+        <file>resource/confirm.png</file>
+        <file>resource/mainscene.png</file>
+        <file>resource/addasset.jpg</file>
+        <file>resource/loginBtn1.png</file>
+        <file>resource/back1.png</file>
+        <file>resource/searchBtn50.png</file>
+        <file>resource/resetBtn50.png</file>
+        <file>resource/employeesIcon.png</file>
+        <file>resource/eye27.png</file>
+        <file>resource/eyeHiden27.png</file>
+        <file>resource/password30.png</file>
+        <file>resource/user30.png</file>
+        <file>resource/loginBtn150.png</file>
+        <file>resource/mainBkg.jpg</file>
+        <file>resource/mainBkg2.jpg</file>
+        <file>resource/loginBkg.png</file>
+        <file>resource/loginBkg2.png</file>
+        <file>resource/searchBtn2_50.png</file>
+        <file>resource/saveBtn.png</file>
+        <file>resource/saveBtn50.png</file>
+    </qresource>
+</RCC>
